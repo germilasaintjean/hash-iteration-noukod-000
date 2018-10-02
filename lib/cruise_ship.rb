@@ -9,7 +9,7 @@ suite_a: "Amanda Presley",
 def select_winner(passengers)
   passengers.each_if { |name,suite| suite_a? }
   puts "#{name}"
-  
+
 
   end
   # add the code snippet here!
